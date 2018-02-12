@@ -1,6 +1,6 @@
-import keyMirro from 'keymirror';
+import keyMirror from 'keymirror';
 
-export default keyMirror {
+export default keyMirror({
   RECEIVE_CONTACTS: null,
   RECEIVE_CONTACTS_ERROR: null
-}
+});
